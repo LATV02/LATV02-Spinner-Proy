@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='LATV02-Spinner-Proy'

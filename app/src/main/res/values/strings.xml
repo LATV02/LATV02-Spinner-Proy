@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LATV02-Spinner-Proy</string>
+    <string name="title1">Menu de Opciones</string>
+    <string name="boton1">Agregar Colores</string>
+    <string name="boton2">Mostrar Colores</string>
+    <string name="titulo2">Agregar Colores</string>
+    <string name="txtplano">Ingrese Color</string>
+    <string name="boton3">Agregar</string>
+    <string name="boton4">Mostrar Colores</string>
+    <string name="boton5">Menu Principal</string>
+    <string name="titulo3">Colores</string>
+    <string name="boton6">Agregar Colores</string>
+    <string name="boton7">Menu Principal</string>
+</resources>
